@@ -17,9 +17,9 @@ The project consists of two main AI agents:
 3. **Kickoff:** Start the task execution process with the specified topic (AI in healthcare).
 
 ## Dependencies
-**crewAI:** A library for creating and managing AI agents.
-**langchain_google_genai:** Interface for Google Generative AI.
-**SerperDevTool:** Tool for internet searching capabilities.
+- **crewAI:** A library for creating and managing AI agents.
+- **langchain_google_genai:** Interface for Google Generative AI.
+- **SerperDevTool:** Tool for internet searching capabilities.
 
 ##Environment Variables
 Ensure to set up the following environment variables:
@@ -27,7 +27,7 @@ Ensure to set up the following environment variables:
 **GOOGLE_API_KEY:** Your Google API key for the Generative AI.
 **SERPER_API_KEY:** Your Serper API key for internet searching capabilities.
 
-$$ Output
+## Output
 The expected output includes:
 - A detailed research report on AI trends in healthcare.
 - An engaging and insightful article based on the research.
