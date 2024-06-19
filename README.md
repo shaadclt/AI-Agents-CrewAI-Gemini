@@ -21,11 +21,11 @@ The project consists of two main AI agents:
 - **langchain_google_genai:** Interface for Google Generative AI.
 - **SerperDevTool:** Tool for internet searching capabilities.
 
-##Environment Variables
+## Environment Variables
 Ensure to set up the following environment variables:
 
-**GOOGLE_API_KEY:** Your Google API key for the Generative AI.
-**SERPER_API_KEY:** Your Serper API key for internet searching capabilities.
+- **GOOGLE_API_KEY:** Your Google API key for the Generative AI.
+- **SERPER_API_KEY:** Your Serper API key for internet searching capabilities.
 
 ## Output
 The expected output includes:
