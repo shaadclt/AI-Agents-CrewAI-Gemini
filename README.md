@@ -1,5 +1,5 @@
 # AI Agents using CrewAI and Gemini
-This repository contains a project that leverages AI agents to research and write about the latest trends in AI technology, specifically focusing on healthcare. The project utilizes Google Generative AI for in-depth research and writing.
+This repository contains a project that leverages AI agents using CrewAI and Google Gemini to research and write about the latest trends in AI technology, specifically focusing on healthcare. 
 
 ## Project Overview
 The project consists of two main AI agents:
