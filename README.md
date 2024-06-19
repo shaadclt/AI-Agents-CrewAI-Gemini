@@ -4,8 +4,8 @@ This repository contains a project that leverages AI agents using CrewAI and Goo
 ## Project Overview
 The project consists of two main AI agents:
 
-**News Researcher:** A senior researcher agent responsible for uncovering groundbreaking technologies in healthcare, with a focus on identifying the pros and cons and overall narrative of AI trends in healthcare.
-**News Writer:** A writer agent that composes engaging and insightful articles based on the research conducted by the News Researcher, simplifying complex topics for a broader audience.
+- **News Researcher:** A senior researcher agent responsible for uncovering groundbreaking technologies in healthcare, with a focus on identifying the pros and cons and overall narrative of AI trends in healthcare.
+- **News Writer:** A writer agent that composes engaging and insightful articles based on the research conducted by the News Researcher, simplifying complex topics for a broader audience.
 
 ## Key Components
 **Research Task:** Conducts comprehensive research to identify the next big trend in AI for healthcare. The output is a detailed report on the latest AI trends.
