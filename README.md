@@ -8,8 +8,8 @@ The project consists of two main AI agents:
 - **News Writer:** A writer agent that composes engaging and insightful articles based on the research conducted by the News Researcher, simplifying complex topics for a broader audience.
 
 ## Key Components
-**Research Task:** Conducts comprehensive research to identify the next big trend in AI for healthcare. The output is a detailed report on the latest AI trends.
-**Write Task:** Composes an insightful and engaging article based on the research findings, focusing on the latest trends and their impact on the healthcare industry.
+- **Research Task:** Conducts comprehensive research to identify the next big trend in AI for healthcare. The output is a detailed report on the latest AI trends.
+- **Write Task:** Composes an insightful and engaging article based on the research findings, focusing on the latest trends and their impact on the healthcare industry.
 
 ## Workflow
 1. **Initialize Agents:** Load environment variables and initialize AI agents with specified roles and goals.
